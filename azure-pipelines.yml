@@ -6,7 +6,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'b1fd5043-744d-494c-8b7a-e5844d62a49f'
+  azureSubscription: 'b17b6d61-c091-46d0-a5d2-260a3060e671'
 
 stages:
 - stage: Build
